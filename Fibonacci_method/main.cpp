@@ -1,3 +1,4 @@
+//Реализация метода Фиббоначи
 #include <iostream>
 #include "Header.h"
 #include <math.h>
