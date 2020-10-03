@@ -1,5 +1,5 @@
 #include <iostream>
-#include "search.h"
+#include "search.hpp"
 #include <math.h>
 #include <map>
 #include <algorithm>
