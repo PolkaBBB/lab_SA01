@@ -1,4 +1,4 @@
-//Реализация метода Фиббоначи
+//Реализация метода Фибоначчи
 #include <iostream>
 #include "search.hpp"
 #include <math.h>
